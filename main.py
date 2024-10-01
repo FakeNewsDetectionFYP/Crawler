@@ -75,7 +75,7 @@ def scrape_article(url):
 # Main function
 def main():
     database = "articles.db"
-    news_url = "https://www.usatoday.com/story/news/nation/2024/09/29/hurricane-helene-climate-change-florida-storms-intensify/75429855007/"
+    news_url = "https://www.bloomberg.com/news/articles/2024-10-01/the-rise-and-fall-of-china-s-copper-king-here-s-how-it-happened?srnd=homepage-asia"
 
     # Create a database connection
     conn = create_connection(database)
