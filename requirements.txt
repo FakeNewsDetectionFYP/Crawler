@@ -1,0 +1,5 @@
+newspaper3k
+pytesseract
+Pillow
+selenium
+openai
